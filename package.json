@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "auth0-js": "^9.0.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^5.0.0",
     "inferno": "^1.5.6",
     "inferno-component": "^1.5.6"
   },
